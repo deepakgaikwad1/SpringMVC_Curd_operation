@@ -1,2 +1,2 @@
 # SpringMVC_Curd_operation
-Using Core Java, Spring, Servlet, Jsp, MySql 
+Using Core Java, Spring MVC, Servlet, Jsp, MySql 
